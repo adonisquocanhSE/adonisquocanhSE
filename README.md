@@ -62,7 +62,7 @@
 ### 💻 OCTATECH Laptop Shop
 - Full-stack Java Web Application (MVC)  
 - Authentication, CRUD, Session, SQL Server  
-👉 https://github.com/adonisquocanhSE/Haipm26_PRJ301_Team8  
+👉 [https://github.com/adonisquocanhSE/Haipm26_PRJ301_Team8](https://github.com/Haipm26/PRJ301_Team8)  
 
 ---
 
