@@ -63,6 +63,7 @@
 ### 💻 OCTATECH Laptop Shop
 - Full-stack Java Web Application (MVC)  
 - Authentication, CRUD, Session, SQL Server  
+
 👉 [https://github.com/adonisquocanhSE/Haipm26_PRJ301_Team8](https://github.com/Haipm26/PRJ301_Team8)  
 
 ---
@@ -70,6 +71,7 @@
 ### 🏠 Smart Home Automation
 - IoT system using ESP32 & sensors  
 - Real-time monitoring & control  
+
 👉 https://github.com/adonisquocanhSE/SmartHomeAutomationVer1  
 
 ---
@@ -77,6 +79,7 @@
 ### 📚 LAB211 Practice
 - Java OOP exercises (AnNV22)  
 - Focus on clean code & logic  
+
 👉 https://github.com/adonisquocanhSE/AnNV22LAB211  
 
 ---
