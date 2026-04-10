@@ -51,6 +51,10 @@
 ---
 
 ## 🚀 Featured Projects
+###📚 LibHub – Smart Library System (JS Club - BVCM 2025)
+- Nền tảng thư viện thông minh dành cho sinh viên Đại học FPT  
+- Tối ưu trải nghiệm tìm kiếm – mượn sách – tương tác cộng đồng
+👉 
 
 ### 💻 OCTATECH Laptop Shop
 - Full-stack Java Web Application (MVC)  
